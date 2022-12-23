@@ -1,5 +1,8 @@
 # React Webpack Typescript Starter
 
+> Download the starter kit
+- **npx degit https://github.com/gopinav/React-TypeScript-Webpack-Starter my-app
+
 > Minimal starter with hot module replacement (HMR) for rapid development.
 
 - **[React](https://facebook.github.io/react/)** (18.x)
